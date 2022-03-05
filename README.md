@@ -9,17 +9,18 @@ I'm currently learning Python, haven't made a lot of projects yet, but making go
 I've also started learning the Bash Terminal on Linux, i've made a password generator that automatically saves the password into a .txt file!
 Doesn't sound exciting, but baby steps!
 
-### 🔭 Projects im working on / helping with:
+### 🔭 Stuff i'm doing / did:
 
-I'm currently helping [@mini-bomba](https://github.com/mini-bomba), with his Enderman Bot on Discord. You can invite the bot by clicking [here!](https://discord.com/oauth2/authorize?client_id=676496144800415746&permissions=8&redirect_uri=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&response_type=code&scope=bot)
+I helped [@mini-bomba](https://github.com/mini-bomba), with his Enderman Bot on Discord. You can invite the bot by clicking [here!](https://discord.com/oauth2/authorize?client_id=676496144800415746&permissions=8&redirect_uri=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&response_type=code&scope=bot)
 
 ![image](https://user-images.githubusercontent.com/39914183/124506028-19730500-ddcb-11eb-892f-dcb2de8b57d7.png)
 
-### ✨ What I want to accomplish in 2021:
+### ✨ What I want to accomplish in 2022:
 
-- I want to understand Python a lot better than last year, and start a bigger project. (and be a lot more helpful with Enderman Bot, lol)
-- I want to be a lot more familiar with Linux.
-- I want to start learning C# (or C++, not sure yet), and make my first basic game in Unity.
+- I want to start a project with Python,
+- I want to get more familiar with Linux,
+- I want to start learning C#, and make my first basic game in Unity,
+- I want to launch my first website.
 <!--
 **aasd24/aasd24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
