@@ -1,25 +1,20 @@
 ### 👋 Hi there!
 
-I'm aasd24. I usually play games, but recently I've been into programming and the computer nerdy-stuff. 
+I'm an IT student that enjoys playing games and programming.
 
 ### 🌱 What I'm currently learning:
 
-I'm currently learning Python, haven't made a lot of projects yet, but making good progress so far.
+- I'm currently learning Python. Started making a project, which i'll maybe publish on GitHub soon. 👀
+- I'm learning the basics of the Bash Terminal on Linux.
 
-I've also started learning the Bash Terminal on Linux, i've made a password generator that automatically saves the password into a .txt file!
-Doesn't sound exciting, but baby steps!
+### 🔭 Stuff I did:
 
-### 🔭 Stuff i'm doing / did:
+- I helped [@mini-bomba](https://github.com/mini-bomba), with his Enderman Bot on Discord. You can invite the bot by clicking [here!](https://discord.com/oauth2/authorize?client_id=676496144800415746&permissions=8&redirect_uri=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&response_type=code&scope=bot)
 
-I helped [@mini-bomba](https://github.com/mini-bomba), with his Enderman Bot on Discord. You can invite the bot by clicking [here!](https://discord.com/oauth2/authorize?client_id=676496144800415746&permissions=8&redirect_uri=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&response_type=code&scope=bot)
+### ✨ My current goals:
 
-![image](https://user-images.githubusercontent.com/39914183/124506028-19730500-ddcb-11eb-892f-dcb2de8b57d7.png)
-
-### ✨ What I want to accomplish in 2022:
-
-- I want to start a project with Python,
+- I want to publish my first project made in Python,
 - I want to get more familiar with Linux,
-- I want to start learning C#, and make my first basic game in Unity,
 - I want to launch my first website.
 <!--
 **aasd24/aasd24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
