@@ -15,6 +15,9 @@
       <img src="https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/German-Beginner-blue?style=for-the-badge"/>
     </div>
+    <div id="tools">
+      <img src="icons/python.png", width="50"/>
+    </div>
   </div>
 </div>
 
