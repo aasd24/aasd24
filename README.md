@@ -2,10 +2,10 @@
   <div id="container">
     <img src="https://avatars.githubusercontent.com/u/39914183?v=4" width="250"/>
     <div id="socials">
-      <a href="https://www.youtube.com/aasd24" target="_blank">
+      <a href="https://www.youtube.com/aasd24">
         <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/>
       </a>
-      <a href="https://www.twitter.com/aasdlive" target="_blank">
+      <a href="https://www.twitter.com/aasdlive">
         <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
       </a>
       <img src="https://img.shields.io/badge/aasd%235006-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
