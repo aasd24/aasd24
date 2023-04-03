@@ -13,7 +13,8 @@
     <div id="language-badges">
       <img src="https://img.shields.io/badge/Polish-Native-blue?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/German-Beginner-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Russian-Beginner-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/French-Beginner-blue?style=for-the-badge"/>
     </div>
     <div id="tools">
       <img src="icons/python.png", width="50"/>
@@ -23,15 +24,21 @@
 
 <div id="hero" align="center">
   <h1>Hello! 👋</h1>
-  <p>I'm a High School IT Student which likes to program and occasionaly play games!<p>
+  <p>I'm a high school IT Student which likes to code random things and occasionaly play games!<p>
+
+  <h2>What I know 🌳 </h2>
+  <p>I'm at an intermediate level in coding in Python.<p>
+  <p>I'm at a beginner level in coding in TypeScipt and Kotlin<p>
+  <p>I have a basic understanding of React<p>
+  
   <h2>What I'm currently learning 🌱 </h2>
 
-  <p>I'm currently learning JavaScript.</p>
-  <p>I'm learning the usage of Linux. (Ubuntu, Bash Terminal)</p>
+  <p>TypeScript and Kotlin</p>
+  <p>Using Linux</p>
+  <p><a href="https://roblox-ts.com/">roblox-ts</a>, A TypeScript-to-Luau Compiler for Roblox<p>
 
   <h2>Projects ✨</h2>
   
-  <p>Started making a Python project, which i'll maybe publish on GitHub soon. 👀</p>
   <p>
     I helped <a href="https://github.com/mini-bomba">@mini-bomba<a/>, with his Enderman Bot on Discord. You can invite the bot by clicking
     <a href="https://discord.com/oauth2/authorize?client_id=676496144800415746&permissions=8&response_type=code&scope=bot">
@@ -39,14 +46,16 @@
     </a>
   </p>
   
+  <p>More to come, hopefully soon 👀<p>
   <h2>My current goals 🏁</h2>
 
-  <p>I want to publish my first project made in Python.</p>
-  <p>I want to get more familiar with Linux.</p>
-  <p>I want to publish my first website.</p>
+  <p>Publish my first open-source project made in Python</p>
+  <p>Get more familiar with using Linux</p>
+  <p>Publish my first portfolio website</p>
 </div>
+
 <!--
-No, i am not deleting this
+no i'm not deleting this
 **aasd24/aasd24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
