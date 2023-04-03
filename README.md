@@ -18,6 +18,8 @@
     </div>
     <div id="tools">
       <img src="icons/python.png", width="50"/>
+      <img src="icons/ts.png", width="50"/>
+      <img src="icons/kt.png", width="50"/>
     </div>
   </div>
 </div>
