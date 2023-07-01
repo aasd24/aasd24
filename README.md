@@ -3,12 +3,12 @@
     <img src="https://avatars.githubusercontent.com/u/39914183?v=4" width="250"/>
     <div id="socials">
       <a href="https://www.youtube.com/aasd24">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/@aasd24-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/>
       </a>
       <a href="https://www.twitter.com/aasdlive">
-        <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/@aasdlive-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
       </a>
-      <img src="https://img.shields.io/badge/aasd%235006-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/@aasd-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
     </div>
     <div id="language-badges">
       <img src="https://img.shields.io/badge/Polish-Native-blue?style=for-the-badge"/>
@@ -26,7 +26,7 @@
 
 <div id="hero" align="center">
   <h1>Hello! 👋</h1>
-  <p>I'm a high school IT Student which likes to code random things and occasionaly play games!<p>
+  <p>I'm a high school IT student and a self taught beginner programmer.<p>
 
   <h2>What I know 🌳 </h2>
   <p>I'm at an intermediate level in coding in Python.<p>
