@@ -5,9 +5,6 @@
       <a href="https://www.youtube.com/aasd24">
         <img src="https://img.shields.io/badge/@aasd24-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/>
       </a>
-      <a href="https://www.twitter.com/aasdlive">
-        <img src="https://img.shields.io/badge/@aasdlive-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
-      </a>
       <img src="https://img.shields.io/badge/@aasd-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
     </div>
     <div id="language-badges">
@@ -26,7 +23,8 @@
 
 <div id="hero" align="center">
   <h1>Hello! 👋</h1>
-  <p>I'm a high school IT student and a self taught beginner programmer.<p>
+  <p>I'm a high school IT student and a self taught programmer.<p>
+  <p>Check out my website <a href="https://aasd24.github.io/" target="_blank">here</a>.</p>
 
   <h2>What I know 🌳 </h2>
   <p>I'm at an intermediate level in coding in Python.<p>
@@ -51,9 +49,8 @@
   <p>More to come, hopefully soon 👀<p>
   <h2>My current goals 🏁</h2>
 
-  <p>Publish my first open-source project made in Python</p>
-  <p>Get more familiar with using Linux</p>
-  <p>Publish my first portfolio website</p>
+  <p>Make an open source Roblox game using Roblox-TS</p>
+  <p>Improve my portfolio website</p>
 </div>
 
 <!--
